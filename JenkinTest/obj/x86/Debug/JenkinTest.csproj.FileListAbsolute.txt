@@ -1,0 +1,5 @@
+D:\JenkinTest\JenkinTest\bin\Debug\JenkinTest.exe
+D:\JenkinTest\JenkinTest\bin\Debug\JenkinTest.pdb
+D:\JenkinTest\JenkinTest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\JenkinTest\JenkinTest\obj\x86\Debug\JenkinTest.exe
+D:\JenkinTest\JenkinTest\obj\x86\Debug\JenkinTest.pdb
